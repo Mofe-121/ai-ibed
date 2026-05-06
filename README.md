@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 **Overview**
+## **Overview**
 
 This repository outlines the **engineering-design–driven, data-informed educational innovation methodology** for implementing **Inquiry by Engineering Design (IBED)** at a national scale. The approach integrates **inquiry-based computational modeling**, **artificial intelligence**, and **multi-level implementation science** to create an adaptive, scalable instructional system.
 
@@ -21,7 +21,7 @@ The methodology is grounded in **four core components**:
 
 ---
 
-## 🔧 **1. Inquiry-Based Instructional Systems Engineering**
+## **1. Inquiry-Based Instructional Systems Engineering**
 
 The instructional framework follows an **engineering design cycle** applied to education system development, with iterative phases:
 
@@ -38,7 +38,7 @@ The instructional framework follows an **engineering design cycle** applied to e
 
 ---
 
-## 🤖 **2. AI-Enabled Learning Analytics and Adaptive Instruction**
+## **2. AI-Enabled Learning Analytics and Adaptive Instruction**
 
 AI models analyze and optimize learning pathways using:
 
@@ -64,7 +64,7 @@ AI models analyze and optimize learning pathways using:
 
 ---
 
-## 💻 **3. Digital Pedagogy Integration and Technology-Enhanced Inquiry Modeling**
+## **3. Digital Pedagogy Integration and Technology-Enhanced Inquiry Modeling**
 
 Digital tools are systematically integrated to support **hands-on inquiry** and **computational modeling**:
 
@@ -80,7 +80,7 @@ Digital tools are systematically integrated to support **hands-on inquiry** and 
 
 ---
 
-## 👩‍🏫 **4. Implementation Science and Scalable Teacher Capacity Development**
+## **4. Implementation Science and Scalable Teacher Capacity Development**
 
 Ensures **sustained adoption** across diverse educational settings:
 
@@ -95,7 +95,7 @@ Ensures **sustained adoption** across diverse educational settings:
 
 ---
 
-## 📊 **5. Continuous Performance Evaluation and Instructional Optimization**
+## **5. Continuous Performance Evaluation and Instructional Optimization**
 
 Embedded **continuous improvement system** with:
 
@@ -116,7 +116,7 @@ graph TD
 
 ---
 
-## 🌍 **6. National Scaling Through Strategic Partnerships**
+## **6. National Scaling Through Strategic Partnerships**
 
 Phased expansion via collaborations with:
 
@@ -133,7 +133,7 @@ Phased expansion via collaborations with:
 
 ---
 
-## 🚀 **Methodological Impact**
+## **Methodological Impact**
 
 Transforms **IBED** into a:  
 ✅ **Nationally scalable** adaptive learning ecosystem.  
@@ -151,7 +151,7 @@ Transforms **IBED** into a:
 
 ---
 
-## 📌 **Getting Started**
+## **Getting Started**
 
 ### Prerequisites
 
@@ -172,13 +172,13 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ---
 
-## 📜 **License**
+## **License**
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙌 **Acknowledgments**
+## **Acknowledgments**
 
 - Inspired by **NGSS**, **ISTE Standards**, and **AI4K12** initiatives.
 - Supported by [Your Organization/Institution].
